@@ -29,6 +29,17 @@ Convocati dal leader Sazuma, raccontano la loro impresa nella cattura dei mostri
 Grazie alle attività di spionaggio scoprono che il culto di monen nasconde sotto la propria cattedrale moltissime armi, ottenute illegalmente ed utilizzate per armare i rivoltosi.
 Autorizzati da Sazuna il party organizza un assalto con 50 guardie. L'esito è però un fallimento, probabilmente a causa di una soffiata fatta da qualche traditore, muoiono tutte le guardie al netto del party che scappa nei sotterranei tramite passaggi segreti.
 
+### Sessione 6 (02/03/2024)
+
+Pre sessione: 
+Connor è andato dall'alchimista Vax che ha fatto esperimenti con le creature serpentose ed ha generato delle caramelle di luce magiche. Ne ha acquistate 20. 
+Lufo ha fatto amicizia con alcuni contrabbandieri nella città di Carsun ed ha spifferato a Mark una possibile tratta di scambi commerciali. Il party ha trovato un gruppo di contrabbandieri che ha prontamente affrontato. L'unico sopravvissuto è stato Nolan che adesso lavora con Lufo e i suoi scagnozzi per incrementare il traffico e le rotte commerciali. L'unico comando è quello di non sottrarre il cibo alla città ma di farlo rientrare in un secondo mercato e riportarlo in città.
+Keeghan si è trasformato in gatto ed ha inseguito una specie di mago che ha fatto esperimenti con una spada magica che emetteva luce. Il party provò ad andare in quella casa ma non trovò nessuno, attendendo quasi tutta la notte.
+
+Sessione:
+Dopo lo scontro nella cattedrale, Sazuma ha tenuto un bel discorso alla guardia cittadina vantandosi che la minaccia di Monen è scomparsa. 
+Abbiamo provato a convincerlo che ci servono più risorse per la questione degli uomini serpente, ma senza successo. Perciò abbiamo interrogato la BESTIA in prigione che con l'ultimo respiro ci ha spifferato di cercare nei condotti. Abbiamo preso il cadavere del lucertolone e lo abbiamo portato a Vax per fare altri esperimenti, a discapito della guardia delle prigioni che è stato impiccato.
+
 ---
 
 ## Il party
@@ -107,8 +118,8 @@ Rimasto orfano, Mark è stato allevato dal fratello Lucius, che è diventato il 
 
 > **Talenti e tratti**
 > - Tratti del ladro:
->   - Trucchi per camuffamento e sostanze da avvelenare
->   - Azione bonus: disimpegno, scattare e disattivare trappoli
+>   - Trucchi per camuffamento e avvelenare sostanze
+>   - Azione bonus: disimpegno, scattare e disattivare trappole
 >   - Attacco furtivo: 2d6 quando ho vantaggio o nemico ingaggiato
 >   - Archetipo Assassino: vantaggio su creatura che non ha effettuato turno combattimento/ critico su creatura sorpresa
 > - Talenti:
